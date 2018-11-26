@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AnimationnFalll2018</string>
+
+    <string name="title_activity_view">ViewActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_properry">ProperryActivity</string>
+
+    <string name="title_activity_drawable">DrawableActivity</string>
+</resources>
